@@ -1,0 +1,3 @@
+/home/mio/CodeCraft2017_begin/SDK-gcc/build/CMakeFiles/rebuild_cache.dir
+/home/mio/CodeCraft2017_begin/SDK-gcc/build/CMakeFiles/edit_cache.dir
+/home/mio/CodeCraft2017_begin/SDK-gcc/build/CMakeFiles/cdn.dir

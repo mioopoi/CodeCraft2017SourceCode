@@ -1,0 +1,5 @@
+cd ~/codecraft2017/SDK-gcc-0316-heuristic
+./build.sh
+cd bin
+./cdn ~/codecraft2017/case_example/case0.txt  ~/codecraft2017/case_example/result0.txt
+

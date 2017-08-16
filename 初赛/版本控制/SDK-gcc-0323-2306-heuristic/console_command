@@ -1,0 +1,11 @@
+cd ~/codecraft2017/SDK-gcc-0316-heuristic
+./build.sh
+cd bin
+./cdn ~/codecraft2017/case_example/case0.txt  ~/codecraft2017/case_example/result0.txt
+./cdn ~/codecraft2017/case_example/case1.txt  ~/codecraft2017/case_example/result1.txt
+./cdn ~/codecraft2017/case_example/case2.txt  ~/codecraft2017/case_example/result2.txt
+./cdn ~/codecraft2017/case_example/case3.txt  ~/codecraft2017/case_example/result3.txt
+./cdn ~/codecraft2017/case_example/case4.txt  ~/codecraft2017/case_example/result4.txt
+#./cdn ~/codecraft2017/case_example/tcase0-300.txt  ~/codecraft2017/case_example/result300.txt
+#./cdn ~/codecraft2017/case_example/tcase1-800.txt  ~/codecraft2017/case_example/result800.txt
+#./cdn ~/codecraft2017/case_example/tcase3-1000.txt  ~/codecraft2017/case_example/result1000.txt

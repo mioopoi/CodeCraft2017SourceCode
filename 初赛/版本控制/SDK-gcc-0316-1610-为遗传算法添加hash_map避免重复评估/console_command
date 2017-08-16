@@ -1,0 +1,5 @@
+cd ~/CodeCraft2017_new/SDK-gcc
+./build.sh
+cd bin
+./cdn ~/CodeCraft2017_new/case_example/case0.txt  ~/CodeCraft2017_new/case_example/result0.txt
+

@@ -1,0 +1,3 @@
+/home/mio/Desktop/SDK-gcc-ex/build/CMakeFiles/rebuild_cache.dir
+/home/mio/Desktop/SDK-gcc-ex/build/CMakeFiles/edit_cache.dir
+/home/mio/Desktop/SDK-gcc-ex/build/CMakeFiles/cdn.dir

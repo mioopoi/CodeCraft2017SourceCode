@@ -1,0 +1,90 @@
+case: 0--0
+node_num: 160
+customer_num: 64
+server level: 
+(3, 5) (14, 4) (36, 4) (69, 4) (120, 5) (125, 3) (129, 3) (155, 5) 
+total cost: 48316
+use time: 2.16543
+
+
+case: 0--1
+node_num: 160
+customer_num: 64
+server level: 
+(2, 5) (11, 2) (16, 5) (37, 5) (65, 5) (74, 1) (110, 5) (133, 3) (152, 1) 
+total cost: 48707
+use time: 2.08382
+
+
+case: 0--2
+node_num: 160
+customer_num: 64
+server level: 
+(0, 5) (35, 3) (64, 5) (76, 4) (89, 4) (116, 5) (136, 2) (138, 5) (148, 2) 
+total cost: 51955
+use time: 2.15623
+
+
+case: 0--3
+node_num: 160
+customer_num: 64
+server level: 
+(0, 5) (15, 5) (34, 5) (41, 2) (71, 5) (107, 5) (132, 5) 
+total cost: 45394
+use time: 1.57763
+
+
+case: 0--4
+node_num: 160
+customer_num: 64
+server level: 
+(16, 5) (60, 5) (77, 5) (84, 3) (99, 2) (102, 5) (106, 5) (146, 5) 
+total cost: 50450
+use time: 2.19482
+
+
+case: 0--5
+node_num: 160
+customer_num: 64
+server level: 
+(12, 5) (27, 3) (29, 4) (41, 2) (57, 4) (62, 5) (96, 5) (120, 4) (154, 4) 
+total cost: 50075
+use time: 2.13052
+
+
+case: 0--6
+node_num: 160
+customer_num: 64
+server level: 
+(3, 5) (41, 2) (59, 4) (85, 5) (106, 5) (110, 3) (141, 5) (156, 0) 
+total cost: 42512
+use time: 1.9814
+
+
+case: 0--7
+node_num: 160
+customer_num: 64
+server level: 
+(2, 5) (42, 5) (104, 5) (108, 2) (111, 5) (122, 5) (143, 5) (148, 3) 
+total cost: 49658
+use time: 1.64736
+
+
+case: 0--8
+node_num: 160
+customer_num: 64
+server level: 
+(0, 5) (13, 5) (64, 4) (86, 5) (111, 5) (146, 5) 
+total cost: 39989
+use time: 2.1206
+
+
+case: 0--9
+node_num: 160
+customer_num: 64
+server level: 
+(1, 5) (20, 5) (51, 4) (57, 2) (59, 3) (84, 1) (86, 5) (140, 4) (155, 5) 
+total cost: 50433
+use time: 2.23269
+
+

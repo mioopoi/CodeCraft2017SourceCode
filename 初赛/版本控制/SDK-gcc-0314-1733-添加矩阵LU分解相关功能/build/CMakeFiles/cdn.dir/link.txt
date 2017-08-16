@@ -1,0 +1,1 @@
+/usr/bin/c++    -O3 -Wall -std=c++11   CMakeFiles/cdn.dir/deploy.cpp.o CMakeFiles/cdn.dir/io.cpp.o CMakeFiles/cdn.dir/cdn.cpp.o  -o /home/mio/CodeCraft2017_begin/SDK-gcc/bin/cdn -rdynamic /home/mio/CodeCraft2017_begin/SDK-gcc/lib/lib_io.a -lpthread ../lib/liblpsolve55.a -ldl 
